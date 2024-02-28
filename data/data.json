@@ -1,0 +1,73 @@
+[
+    {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "id": 1,
+      "phone": "1212121212",
+      "address": "123 Main Street, Anytown, USA"
+    },
+    {
+      "email": "jane.smith@example.com",
+      "name": "Jane Smith",
+      "id": 2,
+      "phone": "1313131313",
+      "address": "456 Elm Street, Anytown, USA"
+    },
+    {
+      "email": "michael.lee@example.com",
+      "name": "Michael Lee",
+      "id": 3,
+      "phone": "1414141414",
+      "address": "789 Oak Street, Anytown, USA"
+    },
+    {
+      "email": "emily.jones@example.com",
+      "name": "Emily Jones",
+      "id": 4,
+      "phone": "1515151515",
+      "address": "1011 Maple Street, Anytown, USA"
+    },
+    {
+      "email": "david.williams@example.com",
+      "name": "David Williams",
+      "id": 5,
+      "phone": "1616161616",
+      "address": "1213 Pine Street, Anytown, USA"
+    },
+    {
+      "email": "sarah.brown@example.com",
+      "name": "Sarah Brown",
+      "id": 6,
+      "phone": "1717171717",
+      "address": "1415 Spruce Street, Anytown, USA"
+    },
+    {
+      "email": "matthew.miller@example.com",
+      "name": "Matthew Miller",
+      "id": 7,
+      "phone": "1818181818",
+      "address": "1617 Cedar Street, Anytown, USA"
+    },
+    {
+      "email": "jennifer.davis@example.com",
+      "name": "Jennifer Davis",
+      "id": 8,
+      "phone": "1919191919",
+      "address": "1819 Elm Street, Anytown, USA"
+    },
+    {
+      "email": "william.johnson@example.com",
+      "name": "William Johnson",
+      "id": 9,
+      "phone": "2020202020",
+      "address": "2021 Oak Street, Anytown, USA"
+    },
+    {
+      "email": "elizabeth.garcia@example.com",
+      "name": "Elizabeth Garcia",
+      "id": 10,
+      "phone": "9999999999",
+      "address": "2223 Maple Street, Anytown, USA"
+    }
+  ]
+  
